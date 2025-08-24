@@ -1,0 +1,9 @@
+streamlit>=1.37.0
+python-dotenv>=1.0.1
+pydantic>=2.8.2
+pandas>=2.2.2
+numpy>=1.26.4
+snowflake-connector-python>=3.11.0
+# Optional AI SDKs (wire up later)
+# ibm-watsonx-ai>=1.1.0
+# transformers>=4.44.0
