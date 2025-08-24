@@ -1,0 +1,17 @@
+essentials:
+  - rent
+  - groceries
+  - utilities
+  - transport
+  - emi
+  - insurance
+lifestyle:
+  - dining
+  - entertainment
+  - shopping
+  - travel
+  - subscriptions
+savings:
+  - emergency_fund
+  - investments
+  - retirement
